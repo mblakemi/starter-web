@@ -16,5 +16,6 @@ This is an example deployment section.
 
 ## How To Contribute
 
+Please fort this repository and then issue Pull Request for review.
 ### Copyright
 Copyright 2014 Donald Duck
