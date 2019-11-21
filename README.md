@@ -15,3 +15,6 @@ Sample website with plenty of files for demos to provide simple examples for Git
 This is an example deployment section.
 
 ## How To Contribute
+
+### Copyright
+Copyright 2014 Donald Duck
