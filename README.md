@@ -10,6 +10,7 @@ THis is example is to show different parts of GIt repository and commands using 
 ## Purpose
 
 Sample website with plenty of files for demos to provide simple examples for Git training.
+Fix while stash is active.
 
 ## Deployment
 
